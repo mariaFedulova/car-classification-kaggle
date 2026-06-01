@@ -31,7 +31,7 @@ Data is sourced from a Kaggle Don’tGetKicked competition. The target variable 
 ## Key Metrics
 
 The following metrics are implemented and used for evaluation:
-- **Gini Score** (derived from ROC AUC: `2 * AUC - 1`)
+- **Gini Score** (2 * ROC AUC - 1)
 - Precision & Recall
 - F1 Score
 - AUC PR
