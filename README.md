@@ -1,4 +1,4 @@
-# Vehicle Purchase Risk Assessment
+# Car Classification Kaggle
 
 Predicting "lemon" vehicles using custom-built classification models with time-based validation and Gini score evaluation.
 
